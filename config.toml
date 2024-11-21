@@ -10,3 +10,4 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 included-patches = "'Enable slide to seek' 'Custom branding' 'Change header' 'Remove player controls background'"
 cli-source = "ReVanced/revanced-cli"
+patches-source = "ReVanced/revanced-patches"
